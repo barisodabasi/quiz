@@ -1,0 +1,6 @@
+framework module Pods_Trivial_TrivialUITests {
+  umbrella header "Pods-Trivial-TrivialUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
